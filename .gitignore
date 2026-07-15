@@ -1,0 +1,10 @@
+# Python 관련 임시 파일
+__pycache__/
+*.pyc
+venv/
+.env
+
+# 데이터 및 결과물 파일 (로컬 테스트용이므로 Git 제외)
+*.xlsx
+*.pptx
+individual_ppts/
